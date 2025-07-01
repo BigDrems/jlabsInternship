@@ -14,7 +14,7 @@ This project is a full stack web application with a React frontend and a Node.js
 ## 1. Clone the Repository
 
 ```
-git clone <repository-url>
+git clone https://github.com/BigDrems/jlabsInternship.git
 cd jlabsIntern
 ```
 
